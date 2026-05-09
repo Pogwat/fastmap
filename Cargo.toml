@@ -3,6 +3,10 @@ name = "fastvec2"
 version = "0.1.0"
 edition = "2024"
 
+[lib]
+name = "fastmap"
+path = "src/lib.rs"
+
 [dependencies]
 ambassador = "0.5.1"
 delegate = "0.13.5"
