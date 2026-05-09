@@ -1,0 +1,9 @@
+[package]
+name = "fastvec2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ambassador = "0.5.1"
+delegate = "0.13.5"
+hashbrown = "0.17.0"
