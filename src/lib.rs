@@ -1,6 +1,6 @@
 use hashbrown::HashMap;
 use delegate::delegate;
-use ambassador::{Delegate,delegatable_trait, delegatable_trait_remote};
+use ambassador::{Delegate, delegatable_trait_remote};
 use core::hash::Hash;
 use core::slice::Iter;   
 use core::mem;
